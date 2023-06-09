@@ -3,16 +3,16 @@ Aplicación web hecha con React y Redux para mi último proyecto de Oxygen's Aca
 ## 🖥️ Install and Run Locally
 ## Clone the project
 
-### git clone https://github.com/josekbm/proyecto-fotos.git
+git clone https://github.com/josekbm/proyecto-fotos.git
 
 ## Go to the project directory
 
-### cd proyecto-fotos
+cd proyecto-fotos
 
 ## Install dependencies
 
-### npm install
+npm install
 
 ## Start the server
 
-### npm start
+npm start
