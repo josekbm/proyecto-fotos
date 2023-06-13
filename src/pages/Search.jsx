@@ -25,6 +25,7 @@ export function Search() {
     dispatch(fetchPhotos({ query: query, currentPage: currentPage }));
   };
   const handleWhileSearching = (e) => {
+    
     setCurrentPage(1);
     setQuery(e.target.value);
   };

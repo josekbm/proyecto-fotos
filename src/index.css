@@ -14,27 +14,3 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
-/*ul {
-  display: inline;
-  list-style-type: none;
-  grid-template-columns: repeat(1, 1fr) !important;
-}
-li{
-  margin-bottom: 30px;
-  margin-right: 15px;
-}
-
-@media (min-width: 600px) {
-  li{
-   
-    margin-bottom: 30px;
-  }
-  ul{
-    grid-template-columns: repeat(2, 1fr) !important;
-  }
-}
-@media (min-width: 1000px) {
-  ul{
-    grid-template-columns: repeat(4, 1fr) !important;
-  }
-}*/
